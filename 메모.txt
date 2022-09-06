@@ -1,0 +1,37 @@
+1. 경로에 공백(스페이스)이 없을 것
+2. 경로에 한글이 없을 것
+3. 문서와 개발 코드는 분리
+4. workspace랑 
+
+C:\Workspace>git clone https://github.com/zeroinmars/Front_end_lecture_22.git 02.FrontEnd
+
+
+
+       서버       ,      클라이언트
+Java: Apache Tomcat + JSP
+
+Node.js: Express + EJS
+
+Python: Flask + Flask
+
+React: Express + React
+
+
+
+LTS = Long Term Support, 2년 주기로 갱신
+
+
+
+
+Internet (TCP/IP)
+http://3.36.223.111:5000/
+Transmission Control protocol - 16 비트 (port)  : 집안에서 주소
+기본 포트 번호 => -http : 80, -flask: 5000, -node express: 3000
+
+Internet Protocol - Host 지정
+
+- IPv4: 4byte로 구성 
+
+
+
+open in browser vsc 자동 웹 생성 확장자파일

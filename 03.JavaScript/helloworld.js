@@ -18,7 +18,7 @@ function move() {
 }
 function clk() {
     let element = document.getElementById('name');
-    let width = 1;
+    let width = 2;
     let id = setInterval(frame, 20);
     function frame() {
         if (width==100) {
